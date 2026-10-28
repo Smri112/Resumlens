@@ -1,0 +1,254 @@
+skill,category
+Python,Programming
+Java,Programming
+C++,Programming
+C#,Programming
+C Programming,Programming
+JavaScript,Programming
+TypeScript,Programming
+Go,Programming
+Rust,Programming
+Kotlin,Programming
+Swift,Programming
+PHP,Programming
+Ruby,Programming
+R,Programming
+MATLAB,Programming
+Bash,Programming
+Data Structures,CS Fundamentals
+Algorithms,CS Fundamentals
+OOP,CS Fundamentals
+Operating Systems,CS Fundamentals
+Computer Networks,CS Fundamentals
+DBMS,CS Fundamentals
+System Design,CS Fundamentals
+HTML,Web
+CSS,Web
+React,Web
+Angular,Web
+Vue,Web
+Node.js,Web
+Express,Web
+Django,Web
+Flask,Web
+FastAPI,Web
+Spring Boot,Web
+Bootstrap,Web
+Tailwind,Web
+REST API,Web
+GraphQL,Web
+Next.js,Web
+Android,Mobile
+Flutter,Mobile
+React Native,Mobile
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+SQLite,Database
+Redis,Database
+Firebase,Database
+Oracle,Database
+Machine Learning,Data & AI
+Deep Learning,Data & AI
+NLP,Data & AI
+Computer Vision,Data & AI
+Data Analysis,Data & AI
+Data Visualization,Data & AI
+Statistics,Data & AI
+Pandas,Data & AI
+NumPy,Data & AI
+Scikit-learn,Data & AI
+TensorFlow,Data & AI
+PyTorch,Data & AI
+Keras,Data & AI
+OpenCV,Data & AI
+spaCy,Data & AI
+NLTK,Data & AI
+Matplotlib,Data & AI
+Seaborn,Data & AI
+Tableau,Data & AI
+Power BI,Data & AI
+Excel,Data & AI
+Hadoop,Data & AI
+Spark,Data & AI
+Streamlit,Data & AI
+Generative AI,Data & AI
+LLM,Data & AI
+AWS,Cloud & DevOps
+Azure,Cloud & DevOps
+GCP,Cloud & DevOps
+Docker,Cloud & DevOps
+Kubernetes,Cloud & DevOps
+Jenkins,Cloud & DevOps
+CI/CD,Cloud & DevOps
+Linux,Cloud & DevOps
+Terraform,Cloud & DevOps
+Git,Tools
+GitHub,Tools
+Jira,Tools
+Postman,Tools
+VS Code,Tools
+Figma,Tools
+Agile,Tools
+Scrum,Tools
+Unit Testing,Tools
+Selenium,Tools
+Cybersecurity,Security
+Networking,Security
+Cryptography,Security
+Ethical Hacking,Security
+IoT,Hardware
+Arduino,Hardware
+Raspberry Pi,Hardware
+Embedded Systems,Hardware
+Communication,Soft Skills
+Teamwork,Soft Skills
+Leadership,Soft Skills
+Problem Solving,Soft Skills
+Time Management,Soft Skills
+Critical Thinking,Soft Skills
+Presentation,Soft Skills
+Scala,Programming
+Dart,Programming
+Perl,Programming
+Assembly,Programming
+Objective-C,Programming
+Shell Scripting,Programming
+PowerShell,Programming
+Linked List,CS Fundamentals
+Dynamic Programming,CS Fundamentals
+Competitive Programming,CS Fundamentals
+Design Patterns,CS Fundamentals
+Microservices,CS Fundamentals
+Compiler Design,CS Fundamentals
+Software Engineering,CS Fundamentals
+SDLC,CS Fundamentals
+Object Oriented Programming,CS Fundamentals
+jQuery,Web
+Redux,Web
+Svelte,Web
+Nuxt,Web
+Laravel,Web
+ASP.NET,Web
+.NET,Web
+Hibernate,Web
+WordPress,Web
+Sass,Web
+Webpack,Web
+WebSocket,Web
+JWT,Web
+OAuth,Web
+Responsive Design,Web
+SwiftUI,Mobile
+Jetpack Compose,Mobile
+Ionic,Mobile
+Xamarin,Mobile
+Cassandra,Database
+DynamoDB,Database
+Elasticsearch,Database
+Neo4j,Database
+MariaDB,Database
+Supabase,Database
+NoSQL,Database
+PL/SQL,Database
+Data Warehousing,Database
+ETL,Database
+Reinforcement Learning,Data & AI
+Transformers,Data & AI
+BERT,Data & AI
+Hugging Face,Data & AI
+LangChain,Data & AI
+Prompt Engineering,Data & AI
+RAG,Data & AI
+OpenAI,Data & AI
+CNN,Data & AI
+RNN,Data & AI
+LSTM,Data & AI
+GAN,Data & AI
+XGBoost,Data & AI
+LightGBM,Data & AI
+SciPy,Data & AI
+Plotly,Data & AI
+Jupyter,Data & AI
+Google Colab,Data & AI
+Kaggle,Data & AI
+Feature Engineering,Data & AI
+Data Cleaning,Data & AI
+Data Mining,Data & AI
+Big Data,Data & AI
+Kafka,Data & AI
+Airflow,Data & AI
+Databricks,Data & AI
+MLOps,Data & AI
+Time Series,Data & AI
+A/B Testing,Data & AI
+Predictive Modeling,Data & AI
+Recommendation System,Data & AI
+Speech Recognition,Data & AI
+Looker,Data & AI
+Google Analytics,Data & AI
+Ansible,Cloud & DevOps
+Nginx,Cloud & DevOps
+Apache,Cloud & DevOps
+GitHub Actions,Cloud & DevOps
+GitLab,Cloud & DevOps
+Heroku,Cloud & DevOps
+Vercel,Cloud & DevOps
+Netlify,Cloud & DevOps
+Cloud Computing,Cloud & DevOps
+DevOps,Cloud & DevOps
+Serverless,Cloud & DevOps
+Prometheus,Cloud & DevOps
+Grafana,Cloud & DevOps
+Maven,Tools
+Gradle,Tools
+npm,Tools
+Swagger,Tools
+Notion,Tools
+Trello,Tools
+Bitbucket,Tools
+IntelliJ,Tools
+Eclipse,Tools
+PyCharm,Tools
+JUnit,Tools
+Pytest,Tools
+Cypress,Tools
+Test Automation,Tools
+Manual Testing,Tools
+Canva,Tools
+Adobe Photoshop,Tools
+UI/UX,Tools
+Wireshark,Security
+Penetration Testing,Security
+Kali Linux,Security
+Burp Suite,Security
+Network Security,Security
+OWASP,Security
+Digital Forensics,Security
+Information Security,Security
+Verilog,Hardware
+VHDL,Hardware
+FPGA,Hardware
+Microcontrollers,Hardware
+PCB Design,Hardware
+Robotics,Hardware
+ROS,Hardware
+Blockchain,Emerging
+Solidity,Emerging
+Web3,Emerging
+Ethereum,Emerging
+AR/VR,Emerging
+Unity,Emerging
+Unreal Engine,Emerging
+Game Development,Emerging
+Adaptability,Soft Skills
+Creativity,Soft Skills
+Collaboration,Soft Skills
+Public Speaking,Soft Skills
+Negotiation,Soft Skills
+Decision Making,Soft Skills
+Project Management,Soft Skills
+Technical Writing,Soft Skills
+Mentoring,Soft Skills
+Analytical Skills,Soft Skills

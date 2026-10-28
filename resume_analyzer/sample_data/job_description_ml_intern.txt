@@ -1,0 +1,12 @@
+Machine Learning Intern
+
+We are looking for a student with strong Python and Machine Learning fundamentals.
+You will build and test models, clean data and present results to the team.
+
+Requirements:
+- Python, Pandas, NumPy and Scikit-learn
+- Knowledge of Machine Learning and Statistics
+- SQL for working with data
+- Git and GitHub for version control
+- Experience with TensorFlow or Deep Learning is a plus
+- Good communication and teamwork

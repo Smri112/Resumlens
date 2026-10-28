@@ -1,0 +1,9 @@
+streamlit>=1.40,<1.50
+pdfplumber
+python-docx
+scikit-learn
+plotly
+pandas
+reportlab
+pillow
+numpy
